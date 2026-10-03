@@ -1,0 +1,8 @@
+{
+  "candidates": [
+    { "name": "gpt-4o", "capability": 0.95, "cost": 0.8, "latency": 0.4, "reliability": 0.92 },
+    { "name": "claude-sonnet", "capability": 0.93, "cost": 0.7, "latency": 0.5, "reliability": 0.94 },
+    { "name": "local-llama", "capability": 0.7, "cost": 0.1, "latency": 0.3, "reliability": 0.85 }
+  ],
+  "weights": { "capability": 0.4, "cost": 0.2, "latency": 0.2, "reliability": 0.2 }
+}
